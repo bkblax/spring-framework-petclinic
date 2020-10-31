@@ -12,10 +12,10 @@ variables:
   azureSubscription: '3c723456-f6a7-4cef-bd75-790d342dcdf7'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'petclinic'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'petclinic'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
